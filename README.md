@@ -1,2 +1,2 @@
-# gb3sm-recomended-systems
+# gb4sm-recomended-systems
 GB: Рекомендательные системы
